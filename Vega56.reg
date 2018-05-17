@@ -1,3 +1,4 @@
+Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0001]
 "PP_PhmSoftPowerPlayTable"=hex:B6,02,08,01,00,5C,00,E1,06,00,00,EE,2B,00,00,1B,\
   00,48,00,00,00,80,A9,03,00,F0,49,02,00,8E,00,08,00,00,00,00,00,00,00,00,00,\
